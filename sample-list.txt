@@ -1,5 +1,9 @@
-# This is a simple sample file for the randominate app
+# This is a sample text file. Check out http://randominate.xyz for more info.
 
-Do this one thing!
+Use this app with a list of writing prompts!
 
-Do this other thing!
+Use this app with a list of  questions to ask your partner!
+
+Use this app for a dorky game of truth or dare!
+
+Check out the website for more info! http://randominate.xyz
