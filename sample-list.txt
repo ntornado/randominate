@@ -1,0 +1,5 @@
+# This is a simple sample file for the randominate app
+
+Do this one thing!
+
+Do this other thing!
