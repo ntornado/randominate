@@ -1,4 +1,4 @@
-# This is a sample text file. Check out http://randominate.xyz for more info.
+# This is a sample text file... Check out http://randominate.xyz for more info.
 
 Use this app with a list of writing prompts!
 
