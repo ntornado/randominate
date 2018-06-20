@@ -1,4 +1,4 @@
-# A list of questions to ask on your first date.
+# A list of questions and prompts to ask on your first date.
 What was the last book you loved?
 What was the last movie you loved?
 If you could spend two hours with any person (alive... or not), who would it be? And what would you want to talk about?
@@ -19,3 +19,6 @@ What's a movie that you loved in the past but probably isn't as good as you reme
 What would your memoir be titled?
 Do you sing in the shower? If so, what do you sing?
 What is (or could be) your favorite song for karaoke?
+How do you think friends would describe you? Is this accurate?
+Describe your perfect day.
+Say something weird about yourself.
